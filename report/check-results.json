@@ -1,0 +1,15 @@
+{
+  "geometryBlueMaskIoU": 0.9966202783300199,
+  "sourceFigures": "2 circles, 6 rectangles, 1 diamond",
+  "translation": true,
+  "rotation": true,
+  "scale": true,
+  "perFigureState": true,
+  "invalidInput": true,
+  "reset": true,
+  "retina": true,
+  "mobileWidth": 390,
+  "htmlPages": 10,
+  "localLinks": 165,
+  "browserErrors": []
+}
